@@ -1,2 +1,2 @@
 # NutritionLabel
-Label form from the curse "Responsive Web Design" from freeCodeCamp
+Label form from the course "Responsive Web Design" from freeCodeCamp
